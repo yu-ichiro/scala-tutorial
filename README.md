@@ -28,3 +28,7 @@ scala> println("Hello, World!")
 ```
 
 to jump into **Scala** world!
+
+# Tutorial of scala
+
+We'll follow the tutorial from scala-lang.org, [Tour of Scala](https://docs.scala-lang.org/tour/tour-of-scala.html)
